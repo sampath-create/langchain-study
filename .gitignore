@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow directories so Git can traverse them to look for files
+!*/
+
+# Do not ignore this .gitignore file itself
+!.gitignore
+
+# Do not ignore README files
+!README.md
+!**/README.md
+
+# Do not ignore the updated_langchain folder and all its contents
+!updated_langchain/**
