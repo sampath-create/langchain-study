@@ -13,3 +13,6 @@
 
 # Do not ignore the updated_langchain folder and all its contents
 !updated_langchain/**
+
+# Do not ignore the LangGraph folder and all its contents
+!LangGraph/**
