@@ -16,3 +16,5 @@
 
 # Do not ignore the LangGraph folder and all its contents
 !LangGraph/**
+!TRAG/**
+TRAG/data/
