@@ -18,3 +18,5 @@
 !LangGraph/**
 !TRAG/**
 TRAG/data/
+
+!DeepAgents/**
